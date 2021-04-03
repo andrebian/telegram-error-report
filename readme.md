@@ -8,7 +8,7 @@ With this implementation, the developer can receive exceptions, error 500, brute
 
 ## Installing
 
-Type `composer require andrebian/telegram-error-reporting` or download the [zip](https://github.com/andrebian/telegram-error-report/archive/refs/heads/master.zip).
+Type `composer require andrebian/telegram-error-report` or download the [zip](https://github.com/andrebian/telegram-error-report/archive/refs/heads/master.zip).
 
 ## Tests
 
